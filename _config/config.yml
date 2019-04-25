@@ -1,0 +1,8 @@
+---
+Name: fromholdio-fulltextinnodb
+After: 'databaseconnectors'
+---
+
+SilverStripe\Core\Injector\Injector:
+  MySQLSchemaManager:
+    class: 'Fromholdio\FullTextInnoDB\ORM\MySQLFullTextInnoDBSchemaManager'
