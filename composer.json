@@ -1,7 +1,7 @@
 {
 	"name": "fromholdio/silverstripe-fulltext-innodb",
 	"type": "silverstripe-vendormodule",
-	"description": "",
+	"description": "A small SilverStripe module that enables usage of fulltext indexes with the InnoDB engine.",
 	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe", "fulltext", "search", "innodb", "mysql", "mariadb"],
 	"homepage": "https://github.com/fromholdio/silverstripe-fulltext-innodb",
